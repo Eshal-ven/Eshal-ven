@@ -209,6 +209,21 @@ Authored and open-sourced a voice-interfaced AI system built on top of CrossInde
 https://github.com/Eshal-ven/crossindexrag-voice-agent
 
 ---
+---
+
+## GitHub Analytics
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Eshal-ven&show_icons=true&hide_border=true&bg_color=0D0B16&title_color=A78BFA&icon_color=8B5CF6&text_color=E9D5FF" />
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eshal-ven&layout=compact&hide_border=true&bg_color=0D0B16&title_color=A78BFA&text_color=E9D5FF" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=Eshal-ven&theme=midnight-purple&hide_border=true&background=0D0B16&ring=8B5CF6&fire=A78BFA&currStreakLabel=C4B5FD" />
+
+</div>
 
 ## Current Focus
 
